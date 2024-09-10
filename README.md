@@ -98,36 +98,36 @@ Enter the simulation duration (seconds): 5
 Transmitted packets: 14
 Dropped packets: 14
 
-Packet 1 - Time: 0 seconds, Status: Transmitted
-Packet 2 - Time: 0 seconds, Status: Transmitted
-Packet 3 - Time: 0 seconds, Status: Transmitted
-Packet 4 - Time: 0 seconds, Status: Transmitted
-Packet 5 - Time: 0 seconds, Status: Transmitted
-Packet 6 - Time: 0 seconds, Status: Transmitted
-Packet 7 - Time: 1 seconds, Status: Transmitted
-Packet 8 - Time: 1 seconds, Status: Transmitted
-Packet 9 - Time: 1 seconds, Status: Transmitted
-Packet 10 - Time: 1 seconds, Status: Transmitted
-Packet 11 - Time: 1 seconds, Status: Transmitted
-Packet 12 - Time: 1 seconds, Status: Dropped
-Packet 13 - Time: 1 seconds, Status: Dropped
-Packet 14 - Time: 1 seconds, Status: Dropped
-Packet 15 - Time: 1 seconds, Status: Dropped
-Packet 16 - Time: 1 seconds, Status: Dropped
-Packet 17 - Time: 3 seconds, Status: Transmitted
-Packet 18 - Time: 3 seconds, Status: Transmitted
-Packet 19 - Time: 3 seconds, Status: Dropped
-Packet 20 - Time: 3 seconds, Status: Dropped
-Packet 21 - Time: 3 seconds, Status: Dropped
-Packet 22 - Time: 3 seconds, Status: Dropped
-Packet 23 - Time: 3 seconds, Status: Dropped
-Packet 24 - Time: 3 seconds, Status: Dropped
-Packet 25 - Time: 3 seconds, Status: Dropped
-Packet 26 - Time: 4 seconds, Status: Transmitted
-Packet 27 - Time: 4 seconds, Status: Dropped
-Packet 28 - Time: 4 seconds, Status: Dropped
+Packet 1 - Time: 0 seconds, Status: Transmitted  
+Packet 2 - Time: 0 seconds, Status: Transmitted  
+Packet 3 - Time: 0 seconds, Status: Transmitted  
+Packet 4 - Time: 0 seconds, Status: Transmitted  
+Packet 5 - Time: 0 seconds, Status: Transmitted  
+Packet 6 - Time: 0 seconds, Status: Transmitted  
+Packet 7 - Time: 1 seconds, Status: Transmitted  
+Packet 8 - Time: 1 seconds, Status: Transmitted  
+Packet 9 - Time: 1 seconds, Status: Transmitted  
+Packet 10 - Time: 1 seconds, Status: Transmitted  
+Packet 11 - Time: 1 seconds, Status: Transmitted  
+Packet 12 - Time: 1 seconds, Status: Dropped  
+Packet 13 - Time: 1 seconds, Status: Dropped  
+Packet 14 - Time: 1 seconds, Status: Dropped  
+Packet 15 - Time: 1 seconds, Status: Dropped  
+Packet 16 - Time: 1 seconds, Status: Dropped  
+Packet 17 - Time: 3 seconds, Status: Transmitted  
+Packet 18 - Time: 3 seconds, Status: Transmitted  
+Packet 19 - Time: 3 seconds, Status: Dropped  
+Packet 20 - Time: 3 seconds, Status: Dropped  
+Packet 21 - Time: 3 seconds, Status: Dropped  
+Packet 22 - Time: 3 seconds, Status: Dropped  
+Packet 23 - Time: 3 seconds, Status: Dropped  
+Packet 24 - Time: 3 seconds, Status: Dropped  
+Packet 25 - Time: 3 seconds, Status: Dropped  
+Packet 26 - Time: 4 seconds, Status: Transmitted  
+Packet 27 - Time: 4 seconds, Status: Dropped  
+Packet 28 - Time: 4 seconds, Status: Dropped  
 
-### Sample plots
+## Sample plots:
 ![plot_Figure_1](https://github.com/user-attachments/assets/82203cbc-1ce2-4382-b9ac-9819d71c21bd)
 ![plot_Figure_2](https://github.com/user-attachments/assets/bc37482b-cf22-4b5e-877c-5055c44bf0a2)
 ![plot_Figure_3](https://github.com/user-attachments/assets/555f3a43-2488-42a4-9292-7a6e05f2c248)
